@@ -85,6 +85,8 @@ aside{
 footer{
     clear: both;
     border-top: 2px solid maroon;
+    text-align: center;
+    font-size: 80%;
 }
 
 p.fixed{

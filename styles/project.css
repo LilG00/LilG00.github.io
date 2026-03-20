@@ -26,6 +26,11 @@ a:hover, a:focus {
     color: orangered;
 }
 
+header {
+    border-bottom: 2px solid maroon;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+}
 
 header h1{
     font-size: 175%; 
@@ -55,7 +60,8 @@ article{
     column-count: 2;
     column-rule: 2px dotted maroon;
     column-gap: 2em;
-    margin-left: 2em; 
+    margin-left: 2em;
+    border-top: 2px solid maroon;
 }
 
 article h3{
@@ -82,7 +88,6 @@ aside{
     float: right;
     background-color: #ffebc6;
     padding: 1em;
-    border-top: 2px solid maroon;
 }
 
 

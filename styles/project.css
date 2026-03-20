@@ -14,17 +14,18 @@ body{
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 
+    background-image: url("../images/Narutoe.png");
     background-position: right;
     background-repeat: repeat-y;
-    background-attachment: fixed;   
+    background-attachment: fixed;
 }
 
 a:hover, a:focus {
     border: 3px blue;
     border-style: dotted solid;
     font-style: italic; 
-    color: orangered;}
-
+    color: orangered;
+}
 
 header h1{
     font-size: 175%; 
@@ -43,6 +44,8 @@ header img {
     margin-left: 2em;
 
 }
+
+.shadow {text-shadow: 2px 2px 2px rgb(128, 0, 0); }
 
 
 article{

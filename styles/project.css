@@ -26,11 +26,6 @@ a:hover, a:focus {
     color: orangered;
 }
 
-header {
-    border-bottom: 2px solid maroon;
-    padding-bottom: 30px;
-    margin-bottom: 10px;
-}
 
 header h1{
     font-size: 175%; 
@@ -87,6 +82,7 @@ aside{
     float: right;
     background-color: #ffebc6;
     padding: 1em;
+    border-top: 2px solid maroon;
 }
 
 

@@ -99,7 +99,7 @@ footer{
 p.fixed{
     width: auto;
     position: fixed;
-    bottom: 250px;
+    bottom: 200px;
     right: 0;
     background-color: lightgreen;
     color: black;

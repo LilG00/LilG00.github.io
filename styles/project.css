@@ -99,11 +99,11 @@ footer{
 p.fixed{
     width: auto;
     position: fixed;
-    bottom: 200px;
+    bottom: 225px;
     right: 0;
     background-color: lightgreen;
     color: black;
-    padding: 30px;
+    padding: 25px;
     margin: 0;
     border: 2px solid green;
 

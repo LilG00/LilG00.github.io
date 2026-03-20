@@ -19,3 +19,6 @@
 article h1{
     clear:both;
 }
+
+
+aside ol { list-style-type: upper-roman; }

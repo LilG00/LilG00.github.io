@@ -101,9 +101,10 @@ p.fixed{
     position: fixed;
     bottom: 250px;
     right: 0;
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
+    background-color: lightgreen;
+    color: black;
+    padding: 30px;
     margin: 0;
-    border-top-left-radius: 5px;
+    border: 2px solid green;
+
 }

@@ -71,8 +71,6 @@ article h1 {
     column-span: all;
 }
 
-
-
 article img {
     float: left;
     margin-right: 1em;
@@ -84,4 +82,9 @@ article p::first-letter {
     font-weight: bold;
     font-style: normal;
     color: black;
+}
+
+footer p.copyright {
+    text-align: center;
+    font-size: 80%;
 }

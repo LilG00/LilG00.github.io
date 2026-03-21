@@ -31,8 +31,9 @@ h1, h2 {
 }
 
 #nav_menu {
-    border-bottom: 2px solid blue;
-    padding-bottom: 3em;
+    border-bottom: 3px solid blue;
+    padding-bottom: 20px;
+    margin-bottom: 0;
 }
 
 #nav_menu ul {list-style-type: none; }
@@ -60,13 +61,14 @@ article{
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted maroon;
+    column-rule: 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
 }
 
 article h1 {
-    clear: both;
+    column-span: all;
+
 }
 
 article img {

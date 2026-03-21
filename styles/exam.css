@@ -87,11 +87,19 @@ article p::first-letter {
     color: black;
 }
 
-footer p.copyright {
-    text-align: center;
-    font-size: 80%;
+aside {
+    width: 20%;
+    position: fixed;
+    right: 2em;
+    top: 50%;
+    background-color: white;
+    border: 1px solid black;
+    padding: 1em;
 }
 
+ol.I{list-style-type: upper-roman;}
+ol.a{list-style-type: lower-alpha;}
+aside ul { list-style-type: square; }
 
 footer{
     clear: both;
@@ -99,3 +107,4 @@ footer{
     text-align: center;
     font-size: 80%;
 }
+

@@ -69,7 +69,10 @@ article{
 article h1 {
     clear: both;
     column-span: all;
+}
 
+article h2 {
+    column-span: all;
 }
 
 article img {

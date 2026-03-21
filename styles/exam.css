@@ -71,9 +71,7 @@ article h1 {
     column-span: all;
 }
 
-article h2 {
-    column-span: all;
-}
+
 
 article img {
     float: left;

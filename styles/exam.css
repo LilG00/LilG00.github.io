@@ -90,9 +90,8 @@ article p::first-letter {
 aside {
     width: 20%;
     position: fixed;
-    right: 2em;
-    top: 50%;
-    background-color: white;
+    float: right;
+    background-color:#8adcfa;
     border: 1px solid black;
     padding: 1em;
 }

@@ -12,6 +12,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
+    overflow: auto;
 
     background-image: url("../images/Narutoe.png");
     background-position: right;
@@ -34,6 +35,8 @@ h1, h2 {
     border-bottom: 3px solid blue;
     padding-bottom: 20px;
     margin-bottom: 0;
+    overflow: auto;
+
 }
 
 #nav_menu ul {list-style-type: none; }

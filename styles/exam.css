@@ -32,7 +32,7 @@ h1, h2 {
 }
 
 #nav_menu {
-    border-bottom: 4px solid blue;
+    border-bottom: 3px solid blue;
     padding-bottom: 20px;
     margin-bottom: 0;
     overflow: auto;
@@ -64,7 +64,7 @@ article{
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 3px dotted blue;
+    column-rule: 4px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
 }
@@ -95,7 +95,7 @@ footer p.copyright {
 
 footer{
     clear: both;
-    border-top: 4px solid blue;
+    border-top: 3px solid blue;
     text-align: center;
     font-size: 80%;
 }

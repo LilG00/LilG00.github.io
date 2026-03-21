@@ -35,8 +35,7 @@ h1, h2 {
     border-bottom: 3px solid blue;
     padding-bottom: 20px;
     margin-bottom: 0;
-    overflow: auto;
-
+    float:left
 }
 
 #nav_menu ul {list-style-type: none; }

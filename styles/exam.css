@@ -67,6 +67,7 @@ article{
 }
 
 article h1 {
+    clear: both;
     column-span: all;
 
 }

@@ -2,10 +2,11 @@ html {
     background-image: linear-gradient(to left, white 0%, #8adcfa 100%);
 }
 
-body {
+body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 95%;
+    margin-left: 10px;
+    width: 90%;
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
@@ -13,7 +14,6 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 
-    background-image: url("../images/Narutoe.png");
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;

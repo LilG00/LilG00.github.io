@@ -90,10 +90,10 @@ article p::first-letter {
 aside {
     width: 20%;
     position: fixed;
-    right: 2em;
-    top: 50%;
+    bottom: 250px;
+    right: 0;
     background-color:#8adcfa;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 1em;
 }
 
@@ -107,4 +107,3 @@ footer{
     text-align: center;
     font-size: 80%;
 }
-

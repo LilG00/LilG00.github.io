@@ -43,8 +43,8 @@ table.third th,
 table.third td {
     padding: 0.7em;
     vertical-align: top;
-    border-left: 2px solid orangered;
-    border-right: 2px solid orangered;
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
 
 table.third thead tr:first-child {
